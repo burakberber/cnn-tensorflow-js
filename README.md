@@ -27,3 +27,4 @@ Evaluate your model
 
 Decide on some way to evaluate your model once it's trained to see how well it is doing on the initial problem you wanted to solve.
 Per class accuracy and confusion matrices can give you a finer breakdown of model performance than just overall accuracy.
+burakberber
